@@ -1,3 +1,0 @@
----
-title: Coronado, Rafael Bolívar
----

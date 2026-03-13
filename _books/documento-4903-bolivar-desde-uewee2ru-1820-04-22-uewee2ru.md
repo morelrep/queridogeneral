@@ -1,0 +1,6 @@
+---
+title: "DOCUMENTO 4903 BOLÍVAR, DESDE SAN CRISTÓBAL, CON FECHAS 22 Y 26 DE SEPTIEMBRE DE 1820, DICTA PROVIDENCIAS EN RELA­CIÓN CON LA INFORMACIÓN SUMINISTRADA POR SANTANDER, ACERCA DE CRÍMENES ATRIBUIDOS A OFICIALES PATRIOTAS.*"
+key: "UEWEE2RU"
+author: 
+---
+<div data-schema-version="9"><p>Cuartel General de San Cristóbal, abril 22 de 1820. Informe el Comandante Patria lo que hay sobre este particular y pase al Gobernador del Socorro para que haga las averiguaciones correspondientes. BOLÍVAR Socorro, septiembre 18 de 1820. No hallándosce en ésta sino en el Cuartel General los demás individuos que aparecen citados, devuélvase el sumario al señor Ministro de la Guerra para los efectos que convengan. El Gobernador Comandante General, Morales. Cuartel General en San Cristóbal, a 26 de septiembre de 1820. Pase este sumario al conocimiento de S.E. el Vicepresidente de Cundinamarca para que proceda conforme al mérito que presten las diligencias obradas, hasta su conclusión definitiva. BOLÍVAR El Ministro de la Guerra, Pedro Briceño Méndez * De un impreso moderno. ""Acotaciones Bolivarianas"", 92-93.</p> </div>

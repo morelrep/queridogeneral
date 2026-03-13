@@ -1,0 +1,6 @@
+---
+title: "DOCUMENTO 10123 CARTA DE SIMÓN BOLÍVAR PARA EL GENERAL FRANCISCO DE PAULA SANTANDER, FECHADA EN LIMA EL 9 DE FEBRERO DE 1825, LE DICE QUE ESTA DISPUESTO A PRESENTAR ANTE EL CONGRESO SU RENUNCIA DEL CARGO QUE, COMO DICTADOR HA EJERCIDO HASTA EL MOMENTO EN EL PERÚ; SE TRÁTA LO REFERENTE A LAS INTRIGAS DE FRANCIA EN PERJUICIO DE LA CAUSA DE LA EMANCIPACIÓN SURAMERICANA; DE EXPONER LA NECESIDAD DE QUE LOS PUEBLOS LIBRES DE AMÉRICA DEL SUR SE UNAN CONTRA LAS ASECHANZAS DE LA SANTA ALIANZA Y BRASIL. EXPRESA FRASES ELOGIOSAS A SANTANDER POR LA EFICIENCIA DE ÉSTE EN LA ADMINISTRACIÓN POLÍTICA DE COLOMBIA.*"
+key: "6CXYBBMH"
+author: 
+---
+<div data-schema-version="9"><p>Lima, 9 de febrero de 1825. A.S.E. El General Francisco de Paula Santander. Mí Querido General: Con mucha satisfacción participo a Ud. que la capitulación de Ayacucho se ha cumplido perfectamente hasta el Desaguadero [ 1 ]] y que nuestras tropas han llegado hasta sus inmediaciones en medio del regocijo y de la gratitud de los pueblos. Pasado [ 2 texto de la carta fue tomado ""del original"", pero omite la información atinente a la localización del citado original.</p></div>

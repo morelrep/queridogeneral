@@ -1,3 +1,0 @@
----
-title: Maitín, José Antonio
----

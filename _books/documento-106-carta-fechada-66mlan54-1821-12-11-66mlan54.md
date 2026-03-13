@@ -1,0 +1,6 @@
+---
+title: "DOCUMENTO 106. CARTA FECHADA EN BOGOTÁ, DIRIGIDA AL VICE­PRESIDENTE, GENERAL SANTANDER, POR LA QUE ORDENA QUE DE SU SUELDO SE DE PENSIÓN A LA VIUDA DEL CORONEL VILLAVICENCIO.*"
+key: "66MLAN54"
+author: 
+---
+<div data-schema-version="9"><p>Cuartel general de Bogotá, a 11 de diciembre de 1821, 11°. Excmo. Señor: Vicepresidente de la República. [General Francisco de P. Santander] Excmo.  Señor:  Disponga V. E. que a la viuda del señor Coronel Villavicencio [ 1 ] se le dé mensalmente [ 2 ] una pensión por cuenta de mi sueldo, correspondiente al total de doscientos pesos anuales. Dios guarde a V.E.  muchos años. BOLÍVAR. [Al margen:]  Cumplido en 13 de id. * Archivo Nacional de Colombia. Secretaría de Guerra y Marina, vol. 1262. Reproducido del microfilme de la Fundación John Boulton, Sección Venezolana del Archivo de la Gran Colombia, Serie A, tomo MCCLXII, N° 124. Original. Firma autógrafa. El encabezamiento y el cuerpo del escrito son de letra del Capitán Jacinto Martel, amanuense del Libertador. Sobre el destinatario, véase la nota principal del doc. N° 84.</p></div>

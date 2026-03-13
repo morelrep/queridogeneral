@@ -1,0 +1,6 @@
+---
+title: "DOCUMENTO 105. CARTA FECHADA EN BOGOTÁ, DIRIGIDA AL GENERAL SANTANDER, VICEPRESIDENTE DE LA REPÚBLICA, POR LA QUE DISPONE SE ENTREGUE DE SU SUELDO UNA PENSIÓN MENSUAL A LAS VIUDAS DEL GENERAL CUSTODIO GARCÍA ROBIRA Y DEL DR. LUIS EDUARDO AZUOLA, EX-DIRECTOR DE RENTAS.*"
+key: "DEHZGVPA"
+author: 
+---
+<div data-schema-version="9"><p>Cuartel general de Bogotá, a 10 de diciembre de 1821, 11°. Excmo. Señor Vicepresidente de la República. [General Francisco de Paula Santander] Excmo. Señor Disponga V. E. que de mi sueldo se den mensualmente a las viudas del señor General García Robira [ 1 ] y del Direc­tor de Rentas Azuola [ 2 ], veinte pesos a cada una. Dios guarde a V. E. muchos años. BOLÍVAR. [Al margen:] Cumplido en  13 de id. * Archivo Nacional de Colombia, Secretaría de Guerra y Marina, vol. 1262. Reproducido del microfilme de la Fundación John Boulton, Sección Venezolana del Archivo de la Gran Colombia, Serie A, tomo MCCLXII, N° 118. Original. Firma autógrafa. El encabezamiento y el texto de la carta son de letra del Coronel José Gabriel Pérez, Secretario General del Liber­tador. Sobre el destinatario y sus funciones, véase la nota principal del doc. N° 84.</p></div>
